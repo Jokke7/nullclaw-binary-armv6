@@ -18,3 +18,8 @@ chmod +x nullclaw-armv6-linux
 # Usage
 ./nullclaw-armv6-linux onboard --interactive   # First-time setup
 ./nullclaw-armv6-linux gateway                 # Start the service
+
+## Credits
+This project provides pre-compiled binaries for **nullclaw**. 
+For the original source code and main project documentation, visit:
+- **Original Project:** [github.com/originalauthor/nullclaw](https://github.com/originalauthor/nullclaw)
