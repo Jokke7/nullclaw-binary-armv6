@@ -11,17 +11,19 @@ To download and run the binary directly on your device:
 ```bash
 # Download the binary
 wget [https://github.com/Jokke7/nullclaw-binary-armv6/releases/download/v1.0.0/nullclaw-armv6-linux](https://github.com/Jokke7/nullclaw-binary-armv6/releases/download/v1.0.0/nullclaw-armv6-linux)
+```
 
 ```bash
 # Make it executable
 chmod +x nullclaw-armv6-linux
+```
 
 ```bash
 # Usage
 ./nullclaw-armv6-linux onboard --interactive   # First-time setup
 ./nullclaw-armv6-linux gateway                 # Start the service
+```
 
-```text
 ## Credits
 This project provides pre-compiled binaries for **nullclaw**. 
 For the original source code and main project documentation, visit:
