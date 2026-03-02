@@ -1,4 +1,4 @@
-# Build Instructions for nullclaw (ARMv6)
+# Build Instructions for nullclaw for ARMv6
 
 This repository distributes a pre-compiled static binary of nullclaw, optimized for 32-bit ARMv6 Linux systems (e.g., Raspberry Pi Model B, Raspberry Pi Zero).
 
