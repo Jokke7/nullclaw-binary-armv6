@@ -1,12 +1,20 @@
 # nullclaw-binary-armv6
 
-Pre-compiled static binary of nullclaw for 32-bit ARMv6 Linux (Raspberry Pi Model B, Zero, etc.).
+[![Latest Release](https://img.shields.io/github/v/release/Jokke7/nullclaw-binary-armv6?label=Download%20Latest)](https://github.com/Jokke7/nullclaw-binary-armv6/releases/latest)
 
-## Download
-Grab the latest binary from [Releases](https://github.com/YOURUSERNAMEJokke7/nullclaw-binary-armv6/releases).
+Pre-compiled static **nullclaw** binary for 32-bit ARMv6 Linux (Raspberry Pi Model B, Zero, etc.).
 
-## Usage
+## Quick Install
+
+To download and run the binary directly on your device:
+
 ```bash
-chmod +x nullclaw
-./nullclaw onboard --interactive   # First-time setup
-./nullclaw gateway                 # Start the service
+# Download the binary
+wget [https://github.com/Jokke7/nullclaw-binary-armv6/releases/download/v1.0.0/nullclaw-armv6-linux](https://github.com/Jokke7/nullclaw-binary-armv6/releases/download/v1.0.0/nullclaw-armv6-linux)
+
+# Make it executable
+chmod +x nullclaw-armv6-linux
+
+# Usage
+./nullclaw-armv6-linux onboard --interactive   # First-time setup
+./nullclaw-armv6-linux gateway                 # Start the service
