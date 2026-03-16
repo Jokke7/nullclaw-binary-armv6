@@ -27,4 +27,4 @@ chmod +x nullclaw-armv6-linux
 ## Credits
 This project provides pre-compiled binaries for **nullclaw**. 
 For the original source code and main project documentation, visit:
-[github.com/originalauthor/nullclaw](https://github.com/originalauthor/nullclaw)
+[github.com/originalauthor/nullclaw](https://github.com/nullclaw/nullclaw)
